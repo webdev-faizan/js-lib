@@ -5,7 +5,7 @@ Animate.css
 mo.js
 flip move
 React Virtualized
-
+gsap.com
 #poper lib
 
 poper.js
@@ -17,3 +17,6 @@ dndkit.com
 
 #shapes
 konvajs.org
+other
+typed.js
+
