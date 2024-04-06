@@ -19,4 +19,6 @@ dndkit.com
 konvajs.org
 other
 typed.js
+react.tours
+react-archer
 
