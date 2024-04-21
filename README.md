@@ -2,6 +2,7 @@
 # animation libaray
 particles-js
 Animate.css
+https://gsap.com/
 mo.js
 flip move
 React Virtualized
