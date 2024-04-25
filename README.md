@@ -22,4 +22,7 @@ other
 typed.js
 react.tours
 react-archer
+#chorme extenstion
+Wappalyzer
+ Wappalyzer identifies the technologies used on websites you visit
 
